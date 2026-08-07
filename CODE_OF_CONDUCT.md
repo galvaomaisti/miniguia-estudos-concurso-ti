@@ -1,53 +1,22 @@
-# 🤝 Como Contribuir
+# Código de Conduta
 
-Obrigado por querer contribuir com este projeto!
+Queremos construir uma comunidade acolhedora e colaborativa.
 
-Nosso objetivo é construir uma biblioteca aberta para estudantes de Tecnologia da Informação que utilizam Inteligência Artificial como apoio aos estudos.
+Todos os participantes devem:
 
-## Como contribuir
+* Tratar os demais com respeito.
+* Compartilhar conhecimento.
+* Aceitar críticas construtivas.
+* Manter um ambiente inclusivo.
+* Evitar linguagem ofensiva.
+* Respeitar direitos autorais.
 
-Você pode colaborar de diversas maneiras:
+Não serão tolerados:
 
-* Corrigindo erros de digitação ou conteúdo.
-* Melhorando a documentação.
-* Adicionando novas fontes abertas.
-* Criando novos resumos.
-* Compartilhando prompts úteis.
-* Melhorando os templates.
-* Criando novos quizzes.
-* Criando glossários.
-* Sugerindo melhorias.
+* Discriminação.
+* Assédio.
+* Ataques pessoais.
+* Conteúdo ilegal.
+* Plágio.
 
-## Processo
-
-1. Faça um Fork do projeto.
-2. Crie uma nova Branch.
-
-```bash
-git checkout -b minha-contribuicao
-```
-
-3. Faça suas alterações.
-
-4. Faça um Commit.
-
-```bash
-git commit -m "Adiciona resumo sobre Redes"
-```
-
-5. Envie para seu Fork.
-
-```bash
-git push origin minha-contribuicao
-```
-
-6. Abra um Pull Request.
-
-## Regras
-
-* Utilize Markdown.
-* Cite as fontes.
-* Não copie materiais protegidos por direitos autorais.
-* Utilize linguagem clara.
-* Explique suas alterações.
-* Respeite os demais colaboradores.
+Nosso objetivo é aprender juntos e construir um material útil para toda a comunidade.
